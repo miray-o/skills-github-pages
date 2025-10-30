@@ -1,4 +1,7 @@
 ---
 title: Welcome to my blog
 ---
+ML models can suffer from technical or social biases, particularly when trained on unrepresentative datasets (e.g., insufficient continental-level reference samples biasing Biogeographical Ancestry predictions
+
+How can the project ensure that any ML models developed for use with mispitools, especially those dealing with predicted physical traits or BGA, are rigorously validated for fairness across all potentially relevant populations (preventing technical bias), and how can users avoid interpretative bias, such as conflating genetically inferred ancestry with social constructs like ethnicity or race?
 
